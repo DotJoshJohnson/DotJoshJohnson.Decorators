@@ -9,7 +9,7 @@
     <Product>DotJoshJohnson.Decorators</Product>
     <Description>A utility library that makes using the decorator pattern in .NET a breeze!</Description>
     <Copyright>Copyright 2022, Josh Johnson</Copyright>
-    <PackageIconUrl>icons8-party-balloons-96.png</PackageIconUrl>
+    <PackageIcon>icons8-party-balloons-96.png</PackageIcon>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
   </PropertyGroup>
 
